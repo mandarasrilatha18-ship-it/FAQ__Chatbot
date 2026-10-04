@@ -1,0 +1,34 @@
+[
+    {
+        "question": "How can I check my attendance?",
+        "answer": "You can check your attendance through your college student portal or ask your class advisor."
+    },
+    {
+        "question": "Where can I find the exam timetable?",
+        "answer": "The exam timetable is usually published on the college notice board or student portal."
+    },
+    {
+        "question": "How do I apply for leave?",
+        "answer": "Submit a leave request through your college's prescribed process and get approval from the concerned faculty."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "Library timings depend on the college schedule. Please check the latest library notice."
+    },
+    {
+        "question": "How do I reset my student portal password?",
+        "answer": "Use the Forgot Password option on the student portal. If you still cannot access your account, contact the college support office."
+    },
+    {
+        "question": "How can I get a bonafide certificate?",
+        "answer": "Apply through the college office or student portal according to your institution's certificate request procedure."
+    },
+    {
+        "question": "Where is the college library?",
+        "answer": "The library is located on the college campus. Please ask the reception for the exact location."
+    },
+    {
+        "question": "How can I contact the college office?",
+        "answer": "You can contact the college office during working hours using the official contact details provided by your college."
+    }
+]
